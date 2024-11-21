@@ -1,7 +1,18 @@
-# Node + Express Service Starter
+# Sistema Bancário
 
-This is a simple hello world express.js server.
+Este é um sistema bancário simples desenvolvido em Node.js, que opera no terminal.
 
-## Getting Started
+## Tecnologias Utilizadas
 
-Previews should run automatically when starting a workspace. Run the `Show Web Preview` IDX command to see the preview.# -sistema_bancario-
+- **Node.js**: Plataforma para executar JavaScript no servidor.
+- **prompt-sync**: Biblioteca para entrada de dados no terminal.
+- **chalk**: Biblioteca para colorir a saída no terminal.
+
+## Funcionalidades
+
+- **Criação de Conta**: Permite criar uma conta com nome e número.
+- **Consulta de Saldo**: Exibe o saldo atual da conta.
+- **Extrato**: Mostra o histórico de transações.
+- **Saque**: Realiza saques da conta.
+- **Depósito**: Permite depositar dinheiro na conta.
+
